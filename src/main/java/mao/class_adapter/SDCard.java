@@ -10,7 +10,7 @@ package mao.class_adapter;
  * Date(创建日期)： 2022/8/15
  * Time(创建时间)： 21:09
  * Version(版本): 1.0
- * Description(描述)： 无
+ * Description(描述)： SD卡的接口
  */
 
 public interface SDCard
